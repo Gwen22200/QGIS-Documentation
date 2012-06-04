@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: QGIS User Guide 1.7.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-29 19:48\n"
-"PO-Revision-Date: 2012-06-04 18:38+0200\n"
+"PO-Revision-Date: 2012-06-04 18:45+0200\n"
 "Last-Translator: Paolo <pcorti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -78,7 +78,7 @@ msgstr ""
 # 37e740c8458545548003f38e4fb7dd70
 #: ../../others/conventions.rst:33
 msgid "Select a Number: |selectnumber|"
-msgstr ""
+msgstr "Selezionare un numero: |selectnumber|"
 
 # b5d2bdd9f5da45c2b64003c2d8dbfd89
 #: ../../others/conventions.rst:34
