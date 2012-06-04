@@ -19,7 +19,7 @@ msgstr ""
 #: ../../others/conventions.rst:9
 # ec62b83562a84a219e663a2c62584c5a
 msgid "Conventions"
-msgstr ""
+msgstr "Convenzioni"
 
 #: ../../others/conventions.rst:11
 # 5e4815b2fa84400db81533e6e1a398dc
