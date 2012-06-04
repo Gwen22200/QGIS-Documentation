@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: QGIS User Guide 1.7.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-29 19:48\n"
-"PO-Revision-Date: 2012-06-04 17:53+0200\n"
+"PO-Revision-Date: 2012-06-04 18:38+0200\n"
 "Last-Translator: Paolo <pcorti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -26,7 +26,9 @@ msgstr "Convenzioni"
 # 5e4815b2fa84400db81533e6e1a398dc
 #: ../../others/conventions.rst:11
 msgid "This section describes a collection of uniform styles throughout the manual. The conventions used in this manual are as follows:"
-msgstr "Questa sezione descrive un'insieme..."
+msgstr ""
+"Questa sezione descrive un'insieme di convenzioni utilizzate nella guida. Le "
+"convenzioni usate sono le seguenti:"
 
 # 0e169c49aa8a4fd29a48afdedbf11191
 #: ../../others/conventions.rst:15
