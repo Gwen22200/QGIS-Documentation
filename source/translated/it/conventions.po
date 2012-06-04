@@ -26,7 +26,7 @@ msgstr "Convenzioni"
 # 5e4815b2fa84400db81533e6e1a398dc
 #: ../../others/conventions.rst:11
 msgid "This section describes a collection of uniform styles throughout the manual. The conventions used in this manual are as follows:"
-msgstr ""
+msgstr "Questa sezione descrive..."
 
 # 0e169c49aa8a4fd29a48afdedbf11191
 #: ../../others/conventions.rst:15
